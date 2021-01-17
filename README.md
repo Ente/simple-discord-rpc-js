@@ -8,7 +8,7 @@ An simple Node.JS application, allowing you to interact with the Discord RPC
 
 ### discord-rpc
 
-Install it with ``npm install discord-rpc`
+Install it with `npm install discord-rpc`
 
 ### node.js & npm
 
@@ -16,10 +16,13 @@ Install Node.JS from the official website ["https://nodejs.org/en/"](https://nod
 
 ## How do I get my accessToken?
 
-You can use my website to get your access Token and other infos about your account.
-["https://www.theducky.xyz/discord"](https://www.theducky.xyz/discord)
+You can use my simple access Token Generator Page: [click me](https://theducky.xyz/discord.php)
 
+Everything you need for the Generator can be found here -> (https://discord.com/developers/applications)[https://discord.com/developers/applications]:
 
+- your Client ID
+- your Client Secret
+- OAuth Parameters seperated by comma
 
 ## How to start the Discord RPC Application?
 
