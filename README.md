@@ -18,7 +18,7 @@ Install Node.JS from the official website ["https://nodejs.org/en/"](https://nod
 
 You can use my simple access Token Generator Page: [click me](https://theducky.xyz/discord.php)
 
-Everything you need for the Generator can be found here -> (https://discord.com/developers/applications)[https://discord.com/developers/applications]:
+Everything you need for the Generator can be found here -> [https://discord.com/developers/applications](https://discord.com/developers/applications) :
 
 - your Client ID
 - your Client Secret
