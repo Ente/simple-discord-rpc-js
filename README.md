@@ -16,7 +16,7 @@ Install Node.JS from the official website ["https://nodejs.org/en/"](https://nod
 
 ## How do I get my accessToken?
 
-You can use my simple access Token Generator Page: [click me](https://theducky.xyz/discord.php)
+You can use my simple access Token Generator Page: [click me](https://theducky.xyz/discord)
 
 Everything you need for the Generator can be found here -> [https://discord.com/developers/applications](https://discord.com/developers/applications) :
 
